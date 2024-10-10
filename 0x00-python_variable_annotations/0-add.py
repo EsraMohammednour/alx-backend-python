@@ -5,9 +5,9 @@
 def add(a: float, b: float) -> float:
     '''fuction that add two float number
     Args:
-        a: float number
-        b: float number
+        a (float): float number
+        b (float): float number
     Returns:
-        float number
+        float: number
     '''
     return a + b
