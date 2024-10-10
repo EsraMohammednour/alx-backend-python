@@ -3,7 +3,7 @@
 
 
 def floor(n: float) -> int:
-    '''function that calculate floor 
+    '''function that calculate floor
     Args:
         n: float number
     Returns:
