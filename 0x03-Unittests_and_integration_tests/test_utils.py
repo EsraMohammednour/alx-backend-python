@@ -2,6 +2,7 @@ import unittest
 from unittest.mock import patch
 from utils import access_nested_map, get_json, memoize
 
+
 class TestUtils(unittest.TestCase):
 
     def test_access_nested_map(self):
